@@ -13,8 +13,8 @@
   },
   {
     "remote": "github",
-    "repository": "Kevindeving/kernel_lge_gee",
+    "repository": "Kevindeving/kernel_lge_mirage",
     "target_path": "kernel/lge/gee",
-    "revision": "android-4.4"
+    "revision": "master"
   }
 ]
